@@ -1,0 +1,104 @@
+{
+    "questions":[
+        {
+            "question_name": "What is the currency of Japan?",
+            "choices": ["Yen", "Dollar", "Pound", "Euro"],
+            "answer": "Yen"
+        },
+        {
+            "question_name": "Who wrote the book 'To Kill a Mockingbird'?",
+            "choices": ["Harper Lee", "J.K. Rowling", "Stephen King", "Ernest Hemingway"],
+            "answer": "Harper Lee"
+        },
+        {
+            "question_name": "What is the largest country in the world by land area?",
+            "choices": ["Russia", "China", "USA", "Canada"],
+            "answer": "Russia"
+        },
+        {
+            "question_name": "What is the tallest mountain in the world?",
+            "choices": ["Mount Everest", "K2", "Kangchenjunga", "Lhotse"],
+            "answer": "Mount Everest"
+        },
+        {
+            "question_name": "What is the shortcut for the 'copy' function on most computers?",
+            "choices": ["ctrl c", "esc", "enter", "alt shift"],
+            "answer": "ctrl c"
+        },
+        {
+            "question_name": "What year was the very first model of the iPhone released?",
+            "choices": ["2001", "1994", "2007", "2000"],
+            "answer": "2007"
+        },
+        {
+            "question_name": "Which animal can be seen on the Porsche logo?",
+            "choices": ["Cat", "Dog", "Horse", "Rabbit"],
+            "answer": "Horse"
+        },
+        {
+            "question_name": "Which country is responsible for giving us pizza and pasta?",
+            "choices": ["America", "Italy", "Japan", "Singapore"],
+            "answer": "Italy"
+        },
+        {
+            "question_name": "What is your body's largest organ?",
+            "choices": ["Skin", "Lung", "Heart", "Liver"],
+            "answer": "Skin"
+        },
+        {
+            "question_name": "How many Pyramids of Giza were made?",
+            "choices": ["3", "2", "1", "4"],
+            "answer": "3"
+        },
+        {
+            "question_name": "How long did the Middle Ages last?",
+            "choices": ["About 1000 years", "About 2000 years", "About 10000 years", "About 9000 years"],
+            "answer": "About 1000 years"
+        },
+        {
+            "question_name": "In which year World War I begin?",
+            "choices": ["1913", "1988", "1914", "1945"],
+            "answer": "1914"
+        },
+        {
+            "question_name": "Which warrior is weakness was their heel?",
+            "choices": ["Hercules", "Jason", "Achilles", "Odysseus"],
+            "answer": "Achilles"
+        },
+        {
+            "question_name": "Who was the messenger of the gods?",
+            "choices": ["Zeus", "Hermes", "Poisedon", "Hades"],
+            "answer": "Hermes"
+        },
+        {
+            "question_name": "What is the name of the fourth book in the Harry Potter series?",
+            "choices": ["Harry Potter and the Chamber of Secrets", "Harry Potter and the Goblet of Fire", "Harry Potter and the Philosopher's Stone", "Harry Potter and the Prisoner of Azkaban"],
+            "answer": "Harry Potter and the Goblet of Fire"
+        },
+        {
+            "question_name": "What is the fastest land animal in the world?",
+            "choices": ["The cheetah", "The lion", "The shark", "The horse"],
+            "answer": "The cheetah"
+        },
+        {
+            "question_name": "Which animal symbolizes good luck in Europe?",
+            "choices": ["Ladybug", "Mantis", "Worm", "Ant"],
+            "answer": "Ladybug"
+        },
+        {
+            "question_name": "Bill Gates is the founder of which company?",
+            "choices": ["Apple", "Google", "Microsoft", "Amazon"],
+            "answer": "Microsoft"
+        },
+        {
+            "question_name": "How many cards are there in a deck of Uno?",
+            "choices": ["100", "53", "108", "200"],
+            "answer": "108"
+        },
+        {
+            "question_name": "In chess, the queen has the combined movement of which two pieces?",
+            "choices": ["Rook and Bishop", "Pawn and King", "Rook and Horse", "No combined"],
+            "answer": "Rook and Bishop"
+        }
+    ]
+}
